@@ -1,2 +1,2 @@
 # Personal Portfolio Website V1
-Hosted at:  https://deeprshah.herokuapp.com/
+Hosted at: https://deepshah.in/personal-portfolio-v1/
